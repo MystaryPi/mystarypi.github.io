@@ -3125,7 +3125,7 @@ input, select, textarea {
 			height: 101%;
 			padding: 6em 3em;
 			top: 0;
-			width: 28em;
+			width: 40em;
 		}
 
 		.spotlight.left .content {
@@ -3139,16 +3139,23 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #e44c65;
+			border-color: #FFA69E;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #5480f1;
+			border-color: #FAF3DD;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #39c088;
+			border-color: #B8F2E6;
 		}
+		.spotlight.style4 .content {
+			border-color: #AED9E0;
+		}
+		.spotlight.style3 .content {
+			border-color: #5E6472;
+		}
+
 
 		.spotlight.inactive .content {
 			opacity: 0;
